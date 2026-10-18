@@ -43,10 +43,6 @@ I also chose to avoid animations, large buttons and complicated visual effects. 
 - `css/style.css`: the colours, typography, spacing and two-column layout.
 - `assets/img/foto-biel.jpg`: my profile photograph.
 
-## How to open the website
-
-Download or extract the project folder and open `index.html` in a web browser. No installation, server or JavaScript is needed.
-
 ## Figma design
 
 [CV - Biel Bosch Ramo](https://www.figma.com/design/7F7yf65uTZqpwHqKz33oat?node-id=1-10)
@@ -57,5 +53,4 @@ HTML5 and CSS3. No frameworks or JavaScript.
 
 ## Links
 
-- GitHub repository: https://github.com/binue11/MiU-PRACT1-CV-BielBosch
 - Published website: https://binue11.github.io/MiU-PRACT1-CV-BielBosch/

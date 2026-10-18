@@ -54,3 +54,8 @@ Download or extract the project folder and open `index.html` in a web browser. N
 ## Technologies
 
 HTML5 and CSS3. No frameworks or JavaScript.
+
+## Links
+
+- GitHub repository: https://github.com/binue11/MiU-PRACT1-CV-BielBosch
+- Published website: https://binue11.github.io/MiU-PRACT1-CV-BielBosch/

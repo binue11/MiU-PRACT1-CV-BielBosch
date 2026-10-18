@@ -10,9 +10,9 @@ This project is my personal CV website, created as a single page using HTML and 
 **Age:** 30  
 **Role:** Recruitment specialist at a small technology company  
 **Location:** Girona, Spain  
-**Device:** Laptop
 
-Laura regularly reviews applications from students and people looking for their first opportunity in the technology sector. She usually has limited time to look at each CV, so she prefers information that is easy to find and understand. She wants to see what a candidate is studying, which programming languages and tools they know, whether they have work experience and what kinds of projects interest them. She also needs a clear way to contact the candidate.
+Laura regularly reviews applications from students and people looking for their first opportunity in the technology sector. She usually has limited time to look at each CV, so she prefers information that is easy to find and understand. 
+She wants to see what a candidate is studying, which programming languages and tools they know, whether they have work experience and what kinds of projects interest them. She also needs a clear way to contact the candidate.
 
 For this user, the website should be simple, readable and well organised. It should give her a quick overview without requiring her to navigate through several pages or use complicated menus.
 
@@ -20,7 +20,8 @@ For this user, the website should be simple, readable and well organised. It sho
 
 I decided to organise the website as one page because I wanted it to work like a traditional CV. The visitor can see all the information by scrolling, without having to open different pages or use a navigation menu. This makes the website easy to understand and also keeps the HTML structure simple.
 
-The page is divided into two main columns. On the left, I placed the information that helps visitors identify me quickly. It starts with my photograph, my name and a short introduction about my studies and interests. Below that, I added my technical skills, the languages I speak and my contact information. I chose this order because these details are useful at a glance and do not need long explanations.
+The page is divided into two main columns. On the left, I placed the information that helps visitors identify me quickly. It starts with my photograph, my name and a short introduction about my studies and interests. 
+Below that, I added my technical skills, the languages I speak and my contact information. I chose this order because these details are useful at a glance and do not need long explanations.
 
 The right column contains the main details of my CV. Education comes first because I am currently studying Computer Science and it is an important part of my profile. After that, I included my work experience, ordered from the most recent job to the oldest one. Each entry shows the year, job title, workplace, location and dates. Finally, I added a Projects section with four ideas I would like to develop. These are clearly marked as projects in planning rather than finished work.
 
@@ -53,16 +54,3 @@ Download or extract the project folder and open `index.html` in a web browser. N
 ## Technologies
 
 HTML5 and CSS3. No frameworks or JavaScript.
-
-## Links
-
-- **GitHub repository:** To be added.
-- **Published website:** To be added.
-
-## Before submitting
-
-- Check that all personal information is correct, especially the current year of study.
-- Add real GitHub and LinkedIn links if they will be shown on the website.
-- Keep project ideas labelled as planned until they are actually developed.
-- Add the repository and public website links after publishing the project.
-- Review the assignment rules about the use of AI.
